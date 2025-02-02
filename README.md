@@ -11,16 +11,13 @@ A simple and fun **Memory Game** where players match pairs of cards. Test your m
 - Simple UI and smooth animations.
 - Built using **HTML, CSS (SCSS), and JavaScript**.
 
-## 💡 How to Contribute
-
-
-## <h1>Contributions! Here’s how you can help:</h1>
+## <h1> 💡 How to Contribute </h1>
 
 - **Fork the repository** and create a new branch.
 - **Make your changes** (bug fixes, new features, UI improvements).
 - **Submit a pull request** with a clear description of your changes.
 
-### 🛠 Suggested Improvements
+### <h2> 🛠 Suggested Improvements </h2>
 
 - 🎨 **UI Enhancements**: Add animations or theme customization.
 - 🎵 **Sound Effects**: Add sound effects for card flips and matches.
